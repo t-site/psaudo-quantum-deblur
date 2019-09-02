@@ -14,9 +14,9 @@ libgd graphics library is required.
 
 use UNIX /dev/urandom device. 
 
-randomly change pixel -> Gaussian Blur -> calcurate PSNR with input.
+randomly change pixel -> Gaussian Blur -> calcurate SSIM with input.
 
-PSNR for randomness control for fast single.
+SSIM for randomness control for fast single.
 
 ## Psaudo-quantum Reverse function
 
