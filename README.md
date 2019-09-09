@@ -18,6 +18,10 @@ randomly change pixel -> Gaussian Blur -> calcurate SSIM with input.
 
 SSIM for randomness control for fast single.
 
+itarate Gaussian Blur as same to single Gaussian Blur, not reverse function.
+
+currently , qdeblur cannnot do deblur.
+
 ## Psaudo-quantum Reverse function
 
 gdImageGaussianBlur is changed for other function by reason.
